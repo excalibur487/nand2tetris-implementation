@@ -12,13 +12,5 @@ This repository showcases my work on building a complete computer system, from h
 4. **Compiler:** Translates a simple high-level language to VM code.
 5. **Operating System:** A basic OS for the virtual machine.
 
-### Structure
-
-- **/hardware**: HDL files.
-- **/assembler**: Assembler source code.
-- **/vm**: Virtual machine implementation.
-- **/compiler**: High-level language compiler.
-- **/os**: Basic operating system.
-
 ### References
 Nisan, N., & Schocken, S. (2009). The Elements of Computing Systems: Building a Modern Computer from First Principles. MIT Press.

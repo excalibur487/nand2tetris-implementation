@@ -1,0 +1,13 @@
+/**
+ * Or16Way gate:
+ * out = (in[0..15]=0, 0, 1) 
+ */
+CHIP Or16Way {
+    IN in[16];
+    OUT out;
+
+    PARTS:
+    Or8Way (in=in[0..7], out=firsthalf);
+    Or8Way (in=in[8..15], out=secondhalf);
+    Or (a=firsthalf, b=secondhalf, out=out);
+}

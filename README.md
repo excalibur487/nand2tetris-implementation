@@ -13,6 +13,7 @@ This repository showcases my work on building a complete computer system, from h
 ### Schematics
 
 ![ALU](https://github.com/excalibur487/nand2tetris-implementation/blob/main/ALU/ALU_Schematic.png)
+----------------
 ![RAM8](https://github.com/excalibur487/nand2tetris-implementation/blob/main/03/RAM8_Schematic.png)
 
 ### References

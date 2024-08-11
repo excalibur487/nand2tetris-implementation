@@ -10,6 +10,8 @@ This repository showcases my work on building a complete computer system, from h
 4. **Compiler:** Translates a simple high-level language to VM code.
 5. **Operating System:** A basic OS for the virtual machine.
 
+### Schematics
+
 ![ALU](https://github.com/excalibur487/nand2tetris-implementation/blob/main/ALU/ALU_Schematic.png)
 ![RAM8](https://github.com/excalibur487/nand2tetris-implementation/blob/main/03/RAM8_Schematic.png)
 

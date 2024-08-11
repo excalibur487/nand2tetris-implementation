@@ -1,3 +1,4 @@
+![RAM8](https://github.com/excalibur487/nand2tetris-implementation/blob/main/03/RAM8_Schematic.png)
 ## Overview
 
 This repository showcases my work on building a complete computer system, from hardware components to a working software stack. Inspired by *The Elements of Computing Systems,* all implementations are my own, with testing scripts and hardware simulator from [nand2tetris](https://www.nand2tetris.org).

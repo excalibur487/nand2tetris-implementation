@@ -14,7 +14,7 @@ This repository showcases my work on building a complete computer system, from h
 ---------------
 ![ALU](https://github.com/excalibur487/nand2tetris-implementation/blob/main/ALU/ALU_Schematic.png)
 ----------------
-![RAM8](https://github.com/excalibur487/nand2tetris-implementation/blob/main/03/RAM8_Schematic.png)
+![RAM8](https://github.com/excalibur487/nand2tetris-implementation/blob/main/Memory/RAM8_Schematic.png)
 -----------------
 ### References
 Nisan, N., & Schocken, S. (2009). The Elements of Computing Systems: Building a Modern Computer from First Principles. MIT Press.
